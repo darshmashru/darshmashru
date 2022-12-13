@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: darshmashru@protonmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dissassembling and assembling computers!
--->
