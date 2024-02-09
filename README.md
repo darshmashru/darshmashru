@@ -50,3 +50,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshmashru&show_icons=true&locale=en&layout=compact" alt="darshmashru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshmashru&show_icons=true&locale=en" alt="darshmashru" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
