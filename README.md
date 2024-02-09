@@ -27,6 +27,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing ChatPaLM!](https://medium.com/google-cloud/introducing-chatpalm-b11ed75f083f?source=rss-4f5d437db10b------2)
+- [A guide to getting almost a TB of Cloud Storage for less than $5.](https://blog.devops.dev/a-guide-to-getting-almost-a-tb-of-cloud-storage-for-less-than-5-8c3fc3b90834?source=rss-4f5d437db10b------2)
+- [A nerd’s guide to knowing your Terminal better.](https://darshmashru.medium.com/a-nerds-guide-to-knowing-your-terminal-better-af23d9ce8f50?source=rss-4f5d437db10b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
