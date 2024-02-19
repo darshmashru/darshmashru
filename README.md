@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/darshmashru" target="blank"><img src="https://img.shields.io/twitter/follow/darshmashru?logo=twitter&style=for-the-badge" alt="darshmashru" /></a> </p>
 
-- 🔭 I’m currently working on [ChatGemini](ChatGemini)
+- 🔭 I’m currently working on [ChatGemini](https://github.com/darshmashru/ChatGemini)
 
 - 🌱 I’m currently learning **Flutter and Generative AI**
 
@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **AI/ML Projects**
 
-- 👨‍💻 All of my projects are available at [darshmashru.com](darshmashru.com)
+- 👨‍💻 All of my projects are available at [darshmashru.com](https://www.darshmashru.com)
 
-- 📝 I regularly write articles on [darshmashru.medium.com](darshmashru.medium.com)
+- 📝 I regularly write articles on [darshmashru.medium.com](https://www.darshmashru.medium.com)
 
 - 💬 Ask me about **DevOps**
 
