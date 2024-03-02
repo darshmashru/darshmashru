@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ChatGemini<br>🌱 I’m currently learning Flutter and Generative AI<br>🤝 I’m looking for help with AI/ML Projects<br>👨‍💻 All of my projects are available at darshmashru.com<br>📝 I regularly write articles on darshmashru.medium.com<br>💬 Ask me about DevOps<br>📫 How to reach me darshmashru@protonmail.com and hello@darshmashru.com<br>⚡ Fun fact I love disassembling and assembling computers!
+🔭 I’m currently working on ChatGemini<br>🌱 I’m currently learning Flutter and Generative AI<br>🤝 I’m looking for help with AI/ML Projects<br>👨‍💻 All of my projects are available at darshmashru.com<br>📝 I regularly write articles on darshmashru.medium.com<br>💬 Ask me about DevOps<br>📫 How to reach me darshmashru@protonmail.com or hello@darshmashru.com<br>⚡ Fun fact I love disassembling and assembling computers!
 
 
 ## 🌐 Socials:
